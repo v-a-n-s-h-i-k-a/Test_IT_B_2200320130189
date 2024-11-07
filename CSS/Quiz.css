@@ -1,0 +1,27 @@
+h1{
+    background-color: burlywood;
+    color:aqua;
+    margin:20px;
+    padding:30px;
+    }
+    
+    #prev{
+    color:white;
+    background-color: blue;
+    margin:5px;
+    padding:20px;
+    }
+    
+    #next{
+    color:white;
+    background-color:green;
+    margin:5px;
+    padding:20px;
+    }
+
+    #Submit{
+    color:white;
+    background-color:red;
+    margin:5px;
+    padding:20px;
+    }
